@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the author and the specific manuscript and experiment versions examined."
+title: "From Interaction to Observation: A Computational Study of Events, Questions, and Information Formation"
+authors:
+  - family-names: Tisler
+    given-names: Bruce
+repository-code: "https://github.com/btisler-DS/Computational-Study-of-Events"
+version: "0.1.0"
+date-released: 2026-10-21
+abstract: "A developing research manuscript and reproducible computational experiments examining interaction-generated events, traceable histories, multiple observers, and observer-specific information formation."
