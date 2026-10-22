@@ -1,0 +1,6 @@
+experiment_version,environment,duration_seconds,fps,speed_scale,seed,ordinary_balls,births,qualifying_collisions,observer_encounters,c_state_at_end
+v1,2D square,17,30,1.0,14,88,86,1301,0,recorded growth
+v2,2D square,17,30,1.0,14,88,86,1301,9,grown yellow
+v3,3D cube,17,30,1.0,14,7,5,5,6,small red
+v4,3D cube,17,30,1.0,14,7,5,5,16,small red
+v5,3D cube,60,12,0.5,14,10,8,8,47,small red
